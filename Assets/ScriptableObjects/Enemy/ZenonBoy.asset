@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 54981994f31c18a40a5b971394fa66c2, type: 3}
+  m_Name: ZenonBoy
+  m_EditorClassIdentifier: 
+  enemyName: Zenon Boy
+  health: 90
+  enemyImage: {fileID: 21300000, guid: 03ad2c973dc176741bb1ef281aba84ed, type: 3}
+  weaponName: The Dwarven Axe
+  damage: 4
